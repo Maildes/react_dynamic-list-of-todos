@@ -1,0 +1,2 @@
+.wrapper{display:flex;flex-direction:column;text-align:center}.wrapper .button{margin:20px auto}.wrapper .sort-button{margin:0 10px}.todo-list{display:grid;justify-content:center;grid-gap:20px}.todo-list__item{display:flex;flex-direction:column;border:2px solid green;border-radius:20px;padding-bottom:15px;background-color:#8ccb5e}.todo-list .color-red{background-color:khaki;color:red;border-color:#708090}
+/*# sourceMappingURL=main.0989f0eb.chunk.css.map */
